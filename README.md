@@ -3,12 +3,21 @@
  Alex DeConde & Clinton Dow
  Thank you Margot, Max and e-bloc
 
+## Webpage
+
+[https://data-navigator.github.io/e-bloc-lunch-and-learn/](https://data-navigator.github.io/e-bloc-lunch-and-learn/)
+
+## Repository
+
+[https://github.com/data-navigator/e-bloc-lunch-and-learn](https://github.com/data-navigator/e-bloc-lunch-and-learn)
+
 ## TODO
 
 - [x] Agenda
 - [ ] Slides
 - [ ] Handout
-- [x] Repo
+- [x] Repository
+- [x] Github Pages
 - [ ] E-Block channel
 
 ## Agenda
