@@ -1,6 +1,7 @@
 # Blockchain Lunch and Learn
 
  Alex DeConde & Clinton Dow
+ 
  Thank you Margot, Max and e-bloc
 
 ## Webpage
@@ -15,6 +16,9 @@
 
 - [x] Agenda
 - [ ] Slides
+  - [ ] Text
+  - [ ] Graphics
+  - [ ] Talking Points
 - [ ] Handout
 - [x] Repository
 - [x] Github Pages
