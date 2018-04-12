@@ -8,7 +8,7 @@
 - [x] Agenda
 - [ ] Slides
 - [ ] Handout
-- [ ] Repo
+- [x] Repo
 - [ ] E-Block channel
 
 ## Agenda
